@@ -1,0 +1,177 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    color: aliceblue;
+}
+
+.profile{
+    position: absolute;
+    top: 772px;
+    display: flex;
+    margin-left: 56px;
+}
+
+header{
+    height: 60px;
+}
+
+.profile img{
+   border-radius: 70%;
+   width: 75px;
+   margin-left: 30px;
+}
+.profile div{
+    text-align: center;
+}
+
+.profile h2{
+    left: 10px;
+    font-size: 10px;
+}
+
+body{
+    background-image: -webkit-image-set("image/download (2).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+header h1{
+    margin-left: 37px;
+    margin-top: 11px;
+    color: aliceblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 1px white;
+}
+
+
+.nav-bar{
+    background-color: rgb(44, 49, 53);
+    height: 100px;
+    left: 40px;
+}
+
+.disc{
+    margin-top: 79px;
+    font-size: 13px;
+}
+
+.disc img{
+    margin-top: 20px;
+    width: 30px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    font-style: normal;
+    position: absolute;
+    left: 747px;
+    top: 20px;
+
+
+   
+}
+
+.btn1{
+    position: absolute;
+    left: 50px;
+    top: 249px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    text-transform: uppercase;
+    border: 3px solid white;
+    color: rgb(255, 255, 255);
+    padding: 8px 9px;
+    cursor: pointer;
+}  
+
+ul a{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: aliceblue;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.bottom{
+    background-color: rgb(44, 49, 53);
+    top: 952px;
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    margin: 0;
+    text-align: center;
+}
+
+.loginform{
+    
+    top: 89px;
+    position: absolute;
+    background-color: black;
+    width: 222px;
+    height: 261px;
+    opacity: 0.5;
+    left: 759px;
+    display: block;
+    color: azure;
+    text-align: center;
+    content: ce;
+}
+
+.loginform form{
+    margin-top: 51px;
+    margin-left: 22px;
+}
+
+.first-part h2{
+    position: absolute;
+    top: 127px;
+    margin-left: 36px;
+    text-align: left; 
+    font-size: 35px; 
+    width: 530px;
+}
+
+.first-part img{
+    position: absolute;
+    top: 169px;
+    margin-left: 589px;
+    width: 400px;
+}
+
+.first-part h3{
+    margin-top: 102px;
+    margin-left: 36px;
+    text-align: left; 
+    font-size: 18px; 
+    width: 530px;
+}
+
+.second-part{
+    margin-top: 723px;
+}
+
+.second-part .disc-2nd{
+    position: absolute;
+    top: 602px;
+    left: 45px;
+    width: 703px;
+}
+
+.about-content div{
+    margin: 77px;
+    margin-top: 48px;
+    margin-left: 69px;
+    width: 845px;
+}
+
+.about-content h2{
+    position: absolute;
+    top: 66px;
+    left: 453px;
+}
+
